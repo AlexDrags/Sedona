@@ -2,6 +2,7 @@
 
 * Студент: [Александр](https://up.htmlacademy.ru/htmlcss/33/user/884089).
 * Наставник: `Юрий Белобородов`.
+* [Deploy link](https://alexdrags.github.io/Sedona/);
 
 ---
 
